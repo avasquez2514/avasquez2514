@@ -1,7 +1,8 @@
 
 Hola, soy Anderson Vasquez Gonzales  🚀
 
-**Tecnólogo en Diseño y Programación de Software** con enfoque Full-Stack y más de 4 años de trayectoria en el sector tecnológico. Mi experiencia combina el soporte técnico y servicio al cliente  con el desarrollo de aplicaciones modernas y escalables.
+Desarrollador de Software y Analista de Infraestructura IT con más de 3 años de trayectoria en el sector tecnológico. Especialista en la creación de servicios web utilizando el stack JavaScript (React, Next.js, Node.js) y Python (Django). 
+Cuento con un portafolio sólido en GitHub que incluye el desarrollo de servicios web modernos e inteligentes destacando la integración de IA Generativa. Cuento con el dominio en herramientas de IA y con capacidad para resolver problemas complejos bajo presión, garantizando eficiencia y escalabilidad.
 
 🛠️ Mi Stack Tecnológico
 * **Frontend:** React, Next.js, JavaScript, TypeScript. [cite: 8, 22, 23]
